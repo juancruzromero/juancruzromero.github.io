@@ -180,6 +180,10 @@ button:hover,
 .button.button-skoob:hover,
 .button.button-skoob:focus {
   filter: brightness(90%) }
+.button-tenis {
+  background-color: #ff8800 !important; /* naranja */
+  color: #fff !important;
+}
 
 /* Snapchat */
 .button.button-snapchat {
